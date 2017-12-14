@@ -1,0 +1,6 @@
+{
+"games": [
+  {"id": 1, "title": "Overwatch"},
+  {"id": 2, "title": "CoD"}
+  ]
+}
