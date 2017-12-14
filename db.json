@@ -1,8 +1,8 @@
 {
 "games": {
     "elements": [
-  {"title": "Overwatch"},
-  {"title": "CoD"}
+  {"title": "LoL", "image": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnow-global/es_ES/f1896aaffe69e2fec207246d8b7e0b5ff3a378ba/assets/img/lol-logo.png"},
+  {"title": "CoD", "image": "https://www.the-scientist.com/images/Opinion/2014/310salmonGM1.jpg"}
     ]
   }
 }
