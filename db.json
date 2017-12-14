@@ -1,8 +1,8 @@
 {
-"games": [
-    "elements":[
+"games": {
+    "elements": [
   {"title": "Overwatch"},
   {"title": "CoD"}
     ]
-  ]
+  }
 }
