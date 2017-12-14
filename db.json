@@ -2,11 +2,9 @@
 "games": {
     "elements": [
   {"title": "LoL", "image": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnow-global/es_ES/f1896aaffe69e2fec207246d8b7e0b5ff3a378ba/assets/img/lol-logo.png", "players": [
-    {"name": "Faker", "age": "50"},
-	{"name": "PacoPepe", "age": "11"}]},
+  {"name": "Faker", "age": "50"}, {"name": "PacoPepe", "age": "11"}]},
   {"title": "CoD", "image": "https://www.the-scientist.com/images/Opinion/2014/310salmonGM1.jpg", "players": [
-    {"name": "Fran", "age": "500"},
-	{"name": "Sergi", "age": "6"}]}
+  {"name": "Fran", "age": "500"},	{"name": "Sergi", "age": "6"}]}
     ]
   }
 }
