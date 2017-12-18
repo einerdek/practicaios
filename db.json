@@ -7,26 +7,26 @@
         "players": [
           {
             "name": "Faker",
-            "age": "50"
-			"hours": "120"
+            "age": "50",
+			"hours": "120",
 			"win": "30%"
           },
           {
             "name": "PacoPepe",
-            "age": "11"
-			"hours": "220"
+            "age": "11",
+			"hours": "220",
 			"win": "50%"
           },    
 		  {
             "name": "Jesus",
-            "age": "33"
-			"hours": "800"
+            "age": "33",
+			"hours": "800",
 			"win": "77%"
           },
           {
             "name": "Juan",
-            "age": "20"
-			"hours": "50"
+            "age": "20",
+			"hours": "50",
 			"win": "1%"
           }
 		  
@@ -38,26 +38,26 @@
         "players": [
           {
             "name": "Fran",
-            "age": "29"
-			"hours": "1000"
+            "age": "29",
+			"hours": "1000",
 			"win": "70%"
           },
           {
             "name": "Sergi",
-            "age": "6"
-			"hours": "80"
+            "age": "6",
+			"hours": "80",
 			"win": "20%"
           },
           {
             "name": "Julio",
-            "age": "40"
-			"hours": "3000"
+            "age": "40",
+			"hours": "3000",
 			"win": "65%"
           },
           {
             "name": "Kiko",
-            "age": "65"
-			"hours": "150"
+            "age": "65",
+			"hours": "150",
 			"win": "50%"
           }		  
         ]
@@ -68,26 +68,26 @@
         "players": [
           {
             "name": "Jose",
-            "age": "24"
-			"hours": "485"
+            "age": "24",
+			"hours": "485",
 			"win": "61%"
           },
           {
             "name": "Pedro",
-            "age": "20"
-			"hours": "845"
+            "age": "20",
+			"hours": "845",
 			"win": "81%"
           },
 		  {
             "name": "Ulyana",
-            "age": "24"
-			"hours": "400"
+            "age": "24",
+			"hours": "400",
 			"win": "65%"
           },
           {
             "name": "Manolo",
-            "age": "51"
-			"hours": "10"
+            "age": "51",
+			"hours": "10",
 			"win": "30%"
           }
         ]
