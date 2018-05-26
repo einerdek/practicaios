@@ -1,95 +1,45 @@
 {
-"games": {
-    "elements": [
+  "game": {
+    "rankings": [
       {
-        "title": "League of Legends",
-        "image": "https://lolstatic-a.akamaihd.net/frontpage/apps/prod/playnow-global/es_ES/f1896aaffe69e2fec207246d8b7e0b5ff3a378ba/assets/img/lol-logo.png",
-        "players": [
-          {
-            "name": "Faker",
-            "age": "50",
-			"hours": "120",
-			"win": "30%"
-          },
-          {
-            "name": "PacoPepe",
-            "age": "11",
-			"hours": "220",
-			"win": "50%"
-          },    
-		  {
-            "name": "Jesus",
-            "age": "33",
-			"hours": "800",
-			"win": "77%"
-          },
-          {
-            "name": "Juan",
-            "age": "20",
-			"hours": "50",
-			"win": "1%"
-          }
-        ]
+        "player": "Alvaro",
+        "Score": "1.000.000"
       },
       {
-        "title": "Call of Duty",
-        "image": "https://www.callofduty.com/content/dam/atvi/callofduty/wwii/home/sh-overview.jpg",
-        "players": [
-          {
-            "name": "Fran",
-            "age": "29",
-			"hours": "1000",
-			"win": "70%"
-          },
-          {
-            "name": "Sergi",
-            "age": "6",
-			"hours": "80",
-			"win": "20%"
-          },
-          {
-            "name": "Julio",
-            "age": "40",
-			"hours": "3000",
-			"win": "65%"
-          },
-          {
-            "name": "Kiko",
-            "age": "65",
-			"hours": "150",
-			"win": "50%"
-          }		  
-        ]
+        "player": "Priscila",
+        "Score": "950.000"
       },
       {
-        "title": "Dota 2",
-        "image": "https://sss.moda.pe/imagen/apaisado/dota-2-acaba-de-registrar-otro-record-8b1ee.jpg",
-        "players": [
-          {
-            "name": "Jose",
-            "age": "24",
-			"hours": "485",
-			"win": "61%"
-          },
-          {
-            "name": "Pedro",
-            "age": "20",
-			"hours": "845",
-			"win": "81%"
-          },
-		  {
-            "name": "Ulyana",
-            "age": "24",
-			"hours": "400",
-			"win": "65%"
-          },
-          {
-            "name": "Manolo",
-            "age": "51",
-			"hours": "10",
-			"win": "30%"
-          }
-        ]
+        "player": "Salome",
+        "Score": "900.000"
+      },
+      {
+        "player": "Nuria",
+        "Score": "850.000"
+      },
+      {
+        "player": "Sancho",
+        "Score": "800.000"
+      },
+      {
+        "player": "Esmeralda",
+        "Score": "750.000"
+      },
+      {
+        "player": "Mariana",
+        "Score": "700.000"
+      },
+      {
+        "player": "Candelas",
+        "Score": "650.000"
+      },
+      {
+        "player": "Domingo",
+        "Score": "600.000"
+      },
+      {
+        "player": "Samuel",
+        "Score": "550.000"
       }
     ]
   }
